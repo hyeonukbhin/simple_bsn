@@ -39,5 +39,3 @@ behavior_rule :
 #  stack_A_on_C :
 #    add_list : []
 #    delete_list : []
-
-
